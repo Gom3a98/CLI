@@ -1,0 +1,22 @@
+ filez.txt
+.classpath
+.project
+bin
+ezz.txt
+filex.txt
+folder
+folder5
+IDS.docx
+saad.txt
+src
+ filez.txt
+.classpath
+.project
+bin
+ezz.txt
+filex.txt
+folder
+folder5
+IDS.docx
+saad.txt
+src

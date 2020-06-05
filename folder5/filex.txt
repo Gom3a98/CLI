@@ -1,0 +1,10 @@
+.classpath
+.project
+bin
+ezz.txt
+filex.txt
+folder
+folder5
+IDS.docx
+saad.txt
+src
